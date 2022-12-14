@@ -16,7 +16,7 @@ public class openApiConfiguration {
             @Value("${documentation.application.version}") String applicationVersion) {
         return new OpenAPI()
                 .info(new Info()
-                        .title("Hotel World API")
+                        .title("Kampai API")
                         .version(applicationVersion)
                         .description(applicationDescription)
                         .termsOfService("https://acme-HelloHotel.com/tos")
