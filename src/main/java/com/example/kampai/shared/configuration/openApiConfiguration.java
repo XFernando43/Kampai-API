@@ -19,8 +19,8 @@ public class openApiConfiguration {
                         .title("Kampai API")
                         .version(applicationVersion)
                         .description(applicationDescription)
-                        .termsOfService("https://acme-KAmapi.com/tos")
-                        .license(new License().name("Apache 2.0 License").url("https://acme-hotelWorld.com/license"))
+                        .termsOfService("https://acme-Kamapi.com/tos")
+                        .license(new License().name("Apache 2.0 License").url("https://acme-Kampai.com/license"))
                         .contact(new Contact()
                                 .url("https://acme.studio")
                                 .name("ACME.studio")));
